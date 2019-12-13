@@ -1,0 +1,188 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Testing/1.0.0": {
+        "dependencies": {
+          "Apps.engine.KinectRecognition": "1.0.0",
+          "Apps.engine.data": "1.0.0",
+          "Apps.engine.neuron": "1.0.0",
+          "ConnectToSQLServer": "1.0.0",
+          "AForge.Controls": "2.2.5.0",
+          "AForge": "2.2.5.0",
+          "AForge.Genetic": "2.2.4.0",
+          "AForge.Imaging": "2.2.5.0",
+          "AForge.Math": "2.2.5.0",
+          "AForge.Neuro": "2.2.5.0",
+          "AForge.Video": "2.2.5.0",
+          "Microsoft.Kinect": "1.8.0.0"
+        },
+        "runtime": {
+          "Testing.dll": {}
+        }
+      },
+      "Apps.engine.data/1.0.0": {
+        "runtime": {
+          "Apps.engine.data.dll": {}
+        }
+      },
+      "Apps.engine.KinectRecognition/1.0.0": {
+        "dependencies": {
+          "Apps.engine.data": "1.0.0",
+          "Apps.engine.neuron": "1.0.0"
+        },
+        "runtime": {
+          "Apps.engine.KinectRecognition.dll": {}
+        }
+      },
+      "Apps.engine.neuron/1.0.0": {
+        "dependencies": {
+          "Apps.engine.data": "1.0.0"
+        },
+        "runtime": {
+          "Apps.engine.neuron.dll": {}
+        }
+      },
+      "ConnectToSQLServer/1.0.0": {
+        "runtime": {
+          "ConnectToSQLServer.exe": {}
+        }
+      },
+      "AForge.Controls/2.2.5.0": {
+        "runtime": {
+          "AForge.Controls.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge/2.2.5.0": {
+        "runtime": {
+          "AForge.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge.Genetic/2.2.4.0": {
+        "runtime": {
+          "AForge.Genetic.dll": {
+            "assemblyVersion": "2.2.4.0",
+            "fileVersion": "2.2.4.0"
+          }
+        }
+      },
+      "AForge.Imaging/2.2.5.0": {
+        "runtime": {
+          "AForge.Imaging.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge.Math/2.2.5.0": {
+        "runtime": {
+          "AForge.Math.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge.Neuro/2.2.5.0": {
+        "runtime": {
+          "AForge.Neuro.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "AForge.Video/2.2.5.0": {
+        "runtime": {
+          "AForge.Video.dll": {
+            "assemblyVersion": "2.2.5.0",
+            "fileVersion": "2.2.5.0"
+          }
+        }
+      },
+      "Microsoft.Kinect/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.595"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apps.engine.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apps.engine.KinectRecognition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apps.engine.neuron/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConnectToSQLServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Controls/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Genetic/2.2.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Imaging/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Math/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Neuro/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Video/2.2.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

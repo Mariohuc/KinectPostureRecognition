@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj": {}
+  },
+  "projects": {
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj",
+        "projectName": "Apps.engine.data",
+        "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj",
+        "projectName": "Apps.engine.KinectRecognition",
+        "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj"
+              },
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj",
+        "projectName": "Apps.engine.neuron",
+        "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj",
+        "projectName": "ConnectToSQLServer",
+        "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj",
+        "projectName": "Testing",
+        "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj",
+        "packagesPath": "C:\\Users\\Mario Alejandro\\.nuget\\packages\\",
+        "outputPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mario Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj"
+              },
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj"
+              },
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj"
+              },
+              "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj": {
+                "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectToSQLServer", "Conne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apps.engine.communication.Test", "Apps.engine.communication.Test\Apps.engine.communication.Test.csproj", "{51D782B7-0D15-4782-8F41-5EBD18764C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tais_proyecto", "Tais_proyecto\Tais_proyecto.csproj", "{FC08132C-9C82-457A-94C3-18ADBF1323CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Tais_proyecto\Testing.csproj", "{FC08132C-9C82-457A-94C3-18ADBF1323CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

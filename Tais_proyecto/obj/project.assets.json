@@ -83,9 +83,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Tais_proyecto.csproj",
-      "projectName": "Tais_proyecto",
-      "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Tais_proyecto.csproj",
+      "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj",
+      "projectName": "Testing",
+      "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Testing.csproj",
       "packagesPath": "C:\\Users\\Mario Alejandro\\.nuget\\packages\\",
       "outputPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\obj\\",
       "projectStyle": "PackageReference",
