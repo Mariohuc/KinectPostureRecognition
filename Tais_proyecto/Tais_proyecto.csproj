@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Apps.engine.data\Apps.engine.data.csproj" />
+    <ProjectReference Include="..\Apps.engine.KinectRecognition\Apps.engine.KinectRecognition.csproj" />
+    <ProjectReference Include="..\Apps.engine.neuron\Apps.engine.neuron.csproj" />
+    <ProjectReference Include="..\ConnectToSQLServer\ConnectToSQLServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>..\Build\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls">
+      <HintPath>..\Build\Debug\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Genetic">
+      <HintPath>..\Build\Debug\AForge.Genetic.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging">
+      <HintPath>..\Build\Debug\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math">
+      <HintPath>..\Build\Debug\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Neuro">
+      <HintPath>..\Build\Debug\AForge.Neuro.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>..\Build\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect">
+      <HintPath>..\Build\Debug\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,128 @@
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll.config
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.pdb
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.xml
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+C:\Users\Alvin\documents\visual studio 2017\Projects\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojResolveAssemblyReference.cache
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll.config
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.pdb
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.neuron.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Apps.engine.data.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Controls.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Genetic.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Imaging.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Math.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Neuro.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\AForge.Video.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojResolveAssemblyReference.cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\Apps.engine.neuron.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojResolveAssemblyReference.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csproj.CoreCompileInputs.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojAssemblyReference.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csproj.CoreCompileInputs.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csproj.CopyComplete
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.neuron.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csprojAssemblyReference.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.csproj.CopyComplete
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.neuron\obj\Debug\Apps.engine.neuron.pdb

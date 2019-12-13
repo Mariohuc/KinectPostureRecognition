@@ -1,0 +1,46 @@
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojResolveAssemblyReference.cache
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+c:\users\jeysongonzales\documents\visual studio 2017\Projects\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojResolveAssemblyReference.cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\ConnectToSQLServer.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\ConnectToSQLServer.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\ConnectToSQLServer.exe
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\MRV\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\MRV\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+F:\SEMESTRE 9\MRV\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojResolveAssemblyReference.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojAssemblyReference.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\ConnectToSQLServer.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojAssemblyReference.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb

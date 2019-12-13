@@ -1,0 +1,567 @@
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\ApplicationInsights.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\csc.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\csc.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\csc.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\csi.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\csi.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.AppContext.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\WebApplication1.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\WebApplication1.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\WebApplication1.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Antlr3.Runtime.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Newtonsoft.Json.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Net.Http.Formatting.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Helpers.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Http.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Http.WebHost.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Mvc.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Optimization.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Razor.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Razor.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\WebGrease.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Newtonsoft.Json.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Net.Http.Formatting.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Helpers.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Http.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Http.WebHost.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Mvc.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Optimization.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.Razor.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Razor.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Antlr3.Runtime.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\ApplicationInsights.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\csc.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\csi.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\WebApplication1.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\WebApplication1.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Http.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\WebGrease.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Http.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\ApplicationInsights.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\csc.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\csc.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\csc.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\csi.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\csi.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.AppContext.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.Collections.Immutable.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.Diagnostics.StackTrace.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\System.Reflection.Metadata.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\vbc.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\vbc.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\vbc.rsp
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\WebApplication1.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\WebApplication1.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\WebApplication1.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Microsoft.Kinect.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Neuro.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Genetic.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Math.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Microsoft.Kinect.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Neuro.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Genetic.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\AForge.Math.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\ApplicationInsights.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\csc.exe
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\csc.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\csc.rsp
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\csi.exe
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\csi.rsp
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.AppContext.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.Collections.Immutable.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\System.Reflection.Metadata.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\vbc.exe
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\vbc.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\vbc.rsp
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\WebApplication1.dll.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\WebApplication1.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\WebApplication1.pdb
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Antlr3.Runtime.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.Agent.Intercept.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.Kinect.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.Web.Infrastructure.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Newtonsoft.Json.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Helpers.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Http.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Mvc.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Optimization.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Razor.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\WebGrease.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Neuro.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Genetic.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Math.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.pdb
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.neuron.pdb
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\ConnectToSQLServer.pdb
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.Kinect.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Newtonsoft.Json.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Helpers.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Http.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Mvc.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Optimization.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.Razor.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Antlr3.Runtime.pdb
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Neuro.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Genetic.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\Bin\AForge.Math.xml
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+F:\SEMESTRE 9\MRV\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\ApplicationInsights.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.rsp
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.rsp
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.AppContext.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Collections.Immutable.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Reflection.Metadata.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.rsp
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Agent.Intercept.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Web.Infrastructure.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\WebGrease.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.xml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\ApplicationInsights.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.AppContext.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Collections.Immutable.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Reflection.Metadata.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Agent.Intercept.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Web.Infrastructure.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\WebGrease.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.xml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\ApplicationInsights.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csc.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\csi.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.AppContext.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Collections.Immutable.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\System.Reflection.Metadata.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\vbc.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\roslyn\VBCSCompiler.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\WebApplication1.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Agent.Intercept.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Web.Infrastructure.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\WebGrease.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.KinectRecognition.dll.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Apps.engine.neuron.dll.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\ConnectToSQLServer.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.Kinect.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Newtonsoft.Json.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Net.Http.Formatting.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Helpers.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Http.WebHost.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Mvc.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Optimization.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.Razor.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Deployment.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\System.Web.WebPages.Razor.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Antlr3.Runtime.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.ApplicationInsights.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.DependencyCollector.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.WindowsServer.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\Microsoft.AI.Web.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Neuro.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Genetic.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\Bin\AForge.Math.xml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\WebApplication1\obj\Debug\WebApplication1.pdb

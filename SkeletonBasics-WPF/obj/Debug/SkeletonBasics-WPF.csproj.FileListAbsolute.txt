@@ -1,0 +1,227 @@
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\ApplicationInsights.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.data.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.KinectRecognition.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.neuron.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\WebApplication1.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Neuro.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Optimization.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Mvc.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Http.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Genetic.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Math.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Razor.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.data.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.data.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.KinectRecognition.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.KinectRecognition.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.neuron.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Apps.engine.neuron.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\WebApplication1.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\WebApplication1.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Neuro.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Optimization.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Mvc.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Http.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Genetic.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\AForge.Math.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.Razor.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\SkeletonBasics-WPF\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\ApplicationInsights.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\ApplicationInsights.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\csc.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\csc.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\csc.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\csi.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\csi.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.AppContext.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\vbc.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\vbc.exe.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\vbc.rsp
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\ApplicationInsights.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+F:\SEMESTRE 9\MRV\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\ApplicationInsights.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CoreCompileInputs.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\ApplicationInsights.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojAssemblyReference.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CoreCompileInputs.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CopyComplete
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\csi.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\csi.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.AppContext.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Collections.Immutable.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.exe.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.rsp
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\ApplicationInsights.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\SkeletonBasics-WPF.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojAssemblyReference.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\App.g.cs
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CopyComplete
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\csc.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\csi.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\csi.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.AppContext.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Collections.Immutable.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\System.Reflection.Metadata.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.exe.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\vbc.rsp
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\roslyn\VBCSCompiler.exe.config

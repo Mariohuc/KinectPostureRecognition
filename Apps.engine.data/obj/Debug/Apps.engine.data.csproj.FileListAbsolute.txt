@@ -1,0 +1,53 @@
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csprojResolveAssemblyReference.cache
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.pdb
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.xml
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+F:\SEMESTRE9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll.config
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\bin\Debug\Apps.engine.data.pdb
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\bin\Debug\Microsoft.Kinect.xml
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+C:\Users\JeysonGonzales\Documents\Fithome\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Build\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\PI\Proyecto\fithome\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.data.dll.config
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\MRV\Bogotec\Build\Debug\Apps.engine.data.pdb
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csprojResolveAssemblyReference.cache
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+F:\SEMESTRE 9\MRV\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll.config
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.pdb
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csprojResolveAssemblyReference.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csproj.CoreCompileInputs.cache
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+D:\UNSA\Semestre 10\ST\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll.config
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.pdb
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csprojAssemblyReference.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csproj.CoreCompileInputs.cache
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csproj.CopyComplete
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+D:\Seminario de tesis\ProyectoTesis_VisualStudio\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll.config
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Build\Debug\Apps.engine.data.pdb
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csprojAssemblyReference.cache
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.csproj.CopyComplete
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.dll
+D:\DocsUnsa\2019_II\TopicosAvanzados\Proyecto\ProyectoTesis\Bogotec\Apps.engine.data\obj\Debug\Apps.engine.data.pdb

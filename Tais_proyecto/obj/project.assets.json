@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Apps.engine.data/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Apps.engine.data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.engine.data.dll": {}
+        }
+      },
+      "Apps.engine.KinectRecognition/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Apps.engine.data": "1.0.0",
+          "Apps.engine.neuron": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Apps.engine.KinectRecognition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.engine.KinectRecognition.dll": {}
+        }
+      },
+      "Apps.engine.neuron/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Apps.engine.data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Apps.engine.neuron.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apps.engine.neuron.dll": {}
+        }
+      },
+      "ConnectToSQLServer/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ConnectToSQLServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConnectToSQLServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apps.engine.data/1.0.0": {
+      "type": "project",
+      "path": "../Apps.engine.data/Apps.engine.data.csproj",
+      "msbuildProject": "../Apps.engine.data/Apps.engine.data.csproj"
+    },
+    "Apps.engine.KinectRecognition/1.0.0": {
+      "type": "project",
+      "path": "../Apps.engine.KinectRecognition/Apps.engine.KinectRecognition.csproj",
+      "msbuildProject": "../Apps.engine.KinectRecognition/Apps.engine.KinectRecognition.csproj"
+    },
+    "Apps.engine.neuron/1.0.0": {
+      "type": "project",
+      "path": "../Apps.engine.neuron/Apps.engine.neuron.csproj",
+      "msbuildProject": "../Apps.engine.neuron/Apps.engine.neuron.csproj"
+    },
+    "ConnectToSQLServer/1.0.0": {
+      "type": "project",
+      "path": "../ConnectToSQLServer/ConnectToSQLServer.csproj",
+      "msbuildProject": "../ConnectToSQLServer/ConnectToSQLServer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Apps.engine.KinectRecognition >= 1.0.0",
+      "Apps.engine.data >= 1.0.0",
+      "Apps.engine.neuron >= 1.0.0",
+      "ConnectToSQLServer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mario Alejandro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Tais_proyecto.csproj",
+      "projectName": "Tais_proyecto",
+      "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\Tais_proyecto.csproj",
+      "packagesPath": "C:\\Users\\Mario Alejandro\\.nuget\\packages\\",
+      "outputPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Tais_proyecto\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mario Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj": {
+              "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.data\\Apps.engine.data.csproj"
+            },
+            "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj": {
+              "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.KinectRecognition\\Apps.engine.KinectRecognition.csproj"
+            },
+            "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj": {
+              "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\Apps.engine.neuron\\Apps.engine.neuron.csproj"
+            },
+            "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj": {
+              "projectPath": "D:\\MisProyectos\\VisualStudioProjects\\KinectPostureRecognition\\ConnectToSQLServer\\ConnectToSQLServer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
